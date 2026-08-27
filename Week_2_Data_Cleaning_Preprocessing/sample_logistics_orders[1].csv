@@ -1,0 +1,32 @@
+Shipment_ID,Origin_Hub,Destination_Hub,Distance_km,Weight_kg,Transport_Mode,Expected_Delivery_Hours,Actual_Delivery_Hours,Transport_Cost
+1001,Delhi Hub,Mumbai Hub,1400,520.0,Road,28.0,34.0,42000
+1002,Delhi Hub,Jaipur Hub,280,180.0,road,7.0,6.0,9000
+1003,Mumbai Hub,Pune Hub,150,75.0,Rail,8.0,11.0,5500
+1004,Pune Hub,Bengaluru Hub,840,310.0,Air,4.0,4.5,28500
+1005,Delhi Hub,Lucknow Hub,500,240.0,ROAD,12.0,16.0,14500
+1006,Kolkata Hub,Delhi Hub,1500,620.0,Rail,30.0,37.0,39000
+1007,Mumbai Hub,Ahmedabad Hub,530,210.0,Road,11.0,10.0,13500
+1008,Bengaluru Hub,Chennai Hub,350,160.0,Air,3.5,5.0,22000
+1009,Jaipur Hub,Delhi Hub,280,190.0, Road ,7.0,9.0,9200
+1010,Kolkata Hub,Bhubaneswar Hub,440,130.0,Rail,10.0,12.0,8500
+1011,Delhi Hub,Chandigarh Hub,250,95.0,Road,6.0,7.0,7200
+1012,Pune Hub,Hyderabad Hub,560,270.0,Rail,14.0,17.0,12500
+1013,Chennai Hub,Bengaluru Hub,350,145.0,Air,3.0,3.0,19500
+1014,Delhi Hub,Mumbai Hub,1400,510.0,Road,28.0,30.0,41000
+1015,Mumbai Hub,Surat Hub,285,120.0,Road,6.0,8.0,7800
+1016,Hyderabad Hub,Bengaluru Hub,570,260.0,Rail,15.0,18.0,11800
+1017,Delhi Hub,Kanpur Hub,440,,Road,10.0,13.0,9800
+1018,Ahmedabad Hub,Mumbai Hub,530,220.0,road,11.0,14.0,14200
+1019,Chennai Hub,Kochi Hub,690,300.0,Air,5.0,7.0,26000
+1020,Kolkata Hub,Patna Hub,580,280.0,Rail,13.0,15.0,11000
+1021,Delhi Hub,Agra Hub,-230,110.0,Road,5.0,6.0,6000
+1022,Mumbai Hub,Nashik Hub,170,80.0,Road,4.0,5.0,5200
+1023,Bengaluru Hub,Hyderabad Hub,570,250.0,Rail,15.0,19.0,12000
+1024,Pune Hub,Mumbai Hub,150,70.0,Air,2.0,2.5,16500
+1025,Delhi Hub,Jaipur Hub,280,185.0,ROAD,7.0,8.0,9100
+1025,Delhi Hub,Jaipur Hub,280,185.0,ROAD,7.0,8.0,9100
+1026,Kolkata Hub,Delhi Hub,1500,650.0,Rail,30.0,45.0,40500
+1027,Delhi Hub,Lucknow Hub,500,230.0,Road,,17.0,15000
+1028,Mumbai Hub,Goa Hub,590,205.0,Road,12.0,15.0,13200
+1029,Chennai Hub,Bengaluru Hub,350,150.0,Air,3.0,4.0,20000
+1030,Delhi Hub,Mumbai Hub,1400,1200.0,Road,28.0,40.0,60000
